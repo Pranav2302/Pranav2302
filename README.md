@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on Reactjs [Pixels](https://github.com/Pranav2302/Pixels)
 
-- 🌱 I’m currently learning **Docker, software development, system design, and WebSockets**
+- 🌱 I’m currently learning Backend ,**Docker, software development, system design, and WebSockets**
 
 - 👨‍💻 All of my projects are available at [https://pranavweb.tech/](https://pranavweb.tech/)
 
