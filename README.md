@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://pranavweb.tech/](https://pranavweb.tech/)
 
-- 💬 Ask me about **reactjs,javascript**
+- 💬 Ask me about **reactjs,javascript,nodejs,redis,mongo**
 
 - 📫 How to reach me **pvkamble02@gmail.com**
 
