@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Pranav Kamble</h1>
-<h3 align="center">Passionate about full-stack development, I'm eager to explore Docker, software development, system design, and WebSockets, constantly learning and expanding my skill set</h3>
+<h3 align="center">Passionate Software developer, I'm eager to explore Docker, system design, and WebSockets, constantly learning and expanding my skill set</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranav2302&label=Profile%20views&color=0e75b6&style=flat" alt="pranav2302" /> </p>
 
