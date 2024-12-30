@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning Backend ,**Docker, software development, system design, and WebSockets**
 
-- 👨‍💻 All of my projects are available at [https://pranavweb.tech/](https://pranavweb.tech/)
+- 👨‍💻 All of my projects are available at [https://pranavweb.me/](https://pranavweb.tech/)
 
 - 💬 Ask me about **reactjs,javascript,nodejs,redis,mongo**
 
