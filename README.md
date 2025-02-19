@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranav2302&label=Profile%20views&color=0e75b6&style=flat" alt="pranav2302" /> </p>
 
-- 🔭 I’m currently working on Reactjs [Pixels](https://github.com/Pranav2302/Pixels)
+- 🔭 I’m currently working on Reactjs [Lawease](https://github.com/Pranav2302/LawEase)
 
 - 🌱 I’m currently learning Backend ,**Docker, software development, system design, and WebSockets**
 
